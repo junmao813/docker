@@ -1,1 +1,1 @@
-from frolvlad/alpine-oraclejdk8
+FROM frolvlad/alpine-oraclejdk8:slim
